@@ -1,3 +1,5 @@
+[⬅️ Back to Main Table of Contents](../README.md)
+
 # Installing Rust
 
 This guide will help you install Rust on your system, following the official instructions from the [Rust Book](https://doc.rust-lang.org/book/ch01-01-installation.html).

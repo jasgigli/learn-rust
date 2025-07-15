@@ -1,74 +1,49 @@
-**Rust Learning Journey: Complete Beginner-to-Expert Roadmap**
+# 🦀 Rust Learning Journey: Beginner-to-Expert Roadmap
+
+Welcome to **Rust Journey Labs** — a curated, hands-on roadmap to mastering Rust from the ground up. This repository is structured as a series of practical labs, each with its own guide and code, to help you learn Rust step by step.
+
+Rust is a modern, systems-level programming language that emphasizes **performance**, **reliability**, and **memory safety**. It's trusted by tech giants like Microsoft, Dropbox, Cloudflare, and Amazon, and is used for everything from command-line tools to web services and embedded systems.
+
+---
+
+## 📚 Table of Contents
+
+- [Introduction](oo1_introduction/README.md): Overview of Rust and its key features.
+- [Installation](oo2_installation/README.md): Step-by-step guide to installing Rust.
+- [Hello World](oo3_hello_world/README.md): Your first Rust program.
+- [Hello Cargo](oo4_hello_cargo/README.md): Introduction to Rust’s package manager and build system.
+- [Variables & Mutability](oo5_variables_mutability/README.md): Understanding variables, immutability, and mutability in Rust.
+
+---
+
+## 🗺️ How to Use This Repository
+
+1. **Start at the top:** Begin with the [Introduction](oo1_introduction/README.md) to understand what makes Rust unique.
+2. **Follow the labs in order:** Each section builds on the previous one. Use the links above to jump to any topic.
+3. **Read, code, experiment:** Each subdirectory contains a `README.md` with explanations and code samples. Try the code yourself!
+4. **Navigate easily:** Use the Table of Contents above to move between topics. Each sub-README links back here for convenience.
 
 ---
 
 ## 🚀 Why Learn Rust?
 
-Rust is a modern, systems-level programming language that emphasizes **performance**, **reliability**, and **memory safety** without needing a garbage collector. It's trusted by tech giants like **Microsoft, Dropbox, Cloudflare, and Amazon** and is used for writing **command-line tools**, **web services**, **embedded systems**, and even **WebAssembly** apps.
+Rust is designed for developers who want to build high-performance, reliable, and safe software. Whether you're a systems programmer, web backend engineer, or just curious about modern languages, Rust has something to offer.
 
-### 🧠 Who is Rust for?
-
-* Developers building high-performance applications
-* Web backend engineers using WebAssembly
-* System programmers replacing C/C++
-* Engineers concerned about safe concurrency and memory safety
+- **Performance:** Control over low-level details without sacrificing ergonomics.
+- **Reliability:** Prevents entire classes of bugs at compile time.
+- **Productivity:** Helpful error messages, a powerful package manager (Cargo), and a welcoming community.
 
 ---
 
-## 🗺️ How to Start Your Rust Journey
+## 🧭 Roadmap Overview
 
-### 1. 📘 Fundamentals
-
-* Install Rust: `https://rustup.rs`
-* Learn basic syntax: variables, data types, ownership, borrowing
-* Tools: `cargo` (Rust's build system and package manager)
-* Resources:
-
-  * [The Rust Programming Language Book ("The Book")](https://doc.rust-lang.org/book/)
-  * [Rustlings](https://github.com/rust-lang/rustlings)
-
-### 2. 🧪 Practice
-
-* Clone Rustlings and start exercises
-* Build basic CLI apps using `structopt` or `clap`
-
-### 3. ⚙️ Intermediate Topics
-
-* Modules, traits, pattern matching
-* Error handling with `Result` and `Option`
-* Collections, lifetimes, and generics
-
-### 4. 🧵 Concurrency & Async
-
-* Threads, `Arc`, `Mutex`
-* Async programming with `tokio`
-
-### 5. 🌐 Web Development
-
-* Web servers using `actix-web`, `rocket`, or `axum`
-* Build REST APIs and explore `serde`, `sqlx`, and `diesel`
-
-### 6. 🧠 Advanced Topics
-
-* Macros, unsafe code, procedural macros
-* Systems programming: OS components, device drivers
-
-### 7. 🧪 Projects and Contributions
-
-* Contribute to open source: [https://github.com/rust-lang](https://github.com/rust-lang)
-* Build:
-
-  * CLI tools
-  * REST APIs
-  * WASM games or simulations
-  * Custom language tools with `pest` or `nom`
-
----
-
-## 🗂️ Recommended GitHub Repo Name
-
-**`rust-journey-labs`**
-(You can also use `rust-nova`, `learn-rust-pro`, `rustacean-lab`, or `rust-masterpath`)
+1. **Fundamentals:** Syntax, variables, data types, ownership, borrowing
+2. **Practice:** CLI apps, exercises
+3. **Intermediate:** Modules, traits, error handling, collections, lifetimes, generics
+4. **Concurrency & Async:** Threads, async programming
+5. **Web Development:** REST APIs, web servers
+6. **Advanced:** Macros, unsafe code, systems programming
+7. **Projects:** Real-world apps, open source contributions
 
 ---
 
