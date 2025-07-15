@@ -1,12 +1,17 @@
-# 🔢 Data Types in Rust
+<!--
+Meta Description: Beginner's guide to data types in Rust. Learn about numbers, booleans, characters, tuples, and arrays in Rust. Step-by-step Rust data types tutorial for new Rustaceans.
+-->
+[⬅️ Back to Main Table of Contents](../README.md)
 
-## Overview
+# 🔢 Rust Data Types Tutorial for Beginners
 
-Every value in Rust has a type—like how every item in your kitchen has a purpose (spoon, bowl, pan). Types help Rust keep your code safe and fast. Let’s explore the most common types you’ll use!
+## What are Data Types in Rust?
+
+Every value in Rust has a type—like how every item in your kitchen has a purpose (spoon, bowl, pan). Types help Rust keep your code safe and fast. This beginner tutorial covers the most common data types in Rust: numbers, booleans, characters, tuples, and arrays.
 
 ---
 
-## Step 1: Numbers
+## Step 1: Numbers in Rust
 
 Rust has two main kinds of numbers:
 - **Integers:** Whole numbers (like 1, -42, 100)
@@ -23,11 +28,11 @@ fn main() {
 - `i32` means a 32-bit integer (most common)
 - `f64` means a 64-bit floating-point number (most common for decimals)
 
-*Analogy:* Integers are like whole apples, floats are like slices!
+*Tip:* Integers are like whole apples, floats are like slices!
 
 ---
 
-## Step 2: Booleans & Characters
+## Step 2: Booleans & Characters in Rust
 
 - **Booleans:** true or false
 - **Characters:** Single letters, numbers, or symbols (in single quotes)
@@ -43,7 +48,7 @@ fn main() {
 
 ---
 
-## Step 3: Tuples & Arrays
+## Step 3: Tuples & Arrays in Rust
 
 - **Tuples:** Group different types together
 - **Arrays:** List of values, all the same type, fixed size
@@ -60,7 +65,7 @@ fn main() {
 - Access tuple items with `.0`, `.1`, etc.
 - Access array items with `[index]`
 
-*Analogy:* A tuple is like a lunchbox with a sandwich, apple, and juice. An array is like a carton of six eggs—all the same!
+*Tip:* A tuple is like a lunchbox with a sandwich, apple, and juice. An array is like a carton of six eggs—all the same!
 
 ---
 
@@ -71,10 +76,10 @@ fn main() {
 
 ---
 
-## Next Steps
+## Next Steps for Rust Beginners
 - You’ve learned the building blocks of Rust data!
 - Try changing types and see what errors you get.
-- Move on to the next topic, or explore the [Rust Book: Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
+- Move on to the next topic, or read the [Official Rust Book: Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 
 ---
 

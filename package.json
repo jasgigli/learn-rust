@@ -1,0 +1,8 @@
+{
+  "name": "learn-rust",
+  "version": "1.0.0",
+  "description": "Step-by-step Rust tutorials, beginner guides, and labs for learning Rust programming.",
+  "keywords": ["rust", "rustlang", "rust tutorial", "learn rust", "rust beginner", "rust programming"],
+  "author": "Junaid Ali Shah Gigli",
+  "license": "MIT"
+}

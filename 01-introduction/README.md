@@ -52,7 +52,7 @@ Think of Rust as a car with smart seatbelts and airbags built in. You can go fas
 
 ## Next Steps
 
-- Move on to the next tutorial: [Installation](../oo2_installation/README.md)
+- Move on to the next tutorial: [Installation](../02-installation/README.md)
 - Try writing a simple “Hello, world!” program (we’ll show you how soon!)
 - Join the friendly [Rust community](https://www.rust-lang.org/community)
 
