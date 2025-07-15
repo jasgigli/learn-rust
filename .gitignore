@@ -1,0 +1,28 @@
+# Rust build
+/target/
+
+# Rust package manager
+**/Cargo.lock
+
+# By-products of 'cargo test'
+**/*.rs.bk
+
+# IDEs and editors
+/.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.old
+*.orig
