@@ -3,34 +3,47 @@ Meta Description: The ultimate beginner's guide to learning Rust programming. St
 -->
 
 <p align="center">
-  <a href="https://github.com/JunaidAliShahGigli/learn-rust/stargazers"><img src="https://img.shields.io/github/stars/JunaidAliShahGigli/learn-rust?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/JunaidAliShahGigli/learn-rust/network/members"><img src="https://img.shields.io/github/forks/JunaidAliShahGigli/learn-rust?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/JunaidAliShahGigli/learn-rust/blob/main/LICENSE"><img src="https://img.shields.io/github/license/JunaidAliShahGigli/learn-rust" alt="MIT License"></a>
-  <a href="https://junaidalishahgigli.github.io/learn-rust/"><img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen" alt="GitHub Pages"></a>
+  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="120" alt="Rust Logo"/>
 </p>
 
-# 🦀 Learn Rust: Step-by-Step Beginner Tutorials & Labs
+<h1 align="center">🦀 Learn Rust: Complete Step-by-Step Tutorial Series</h1>
 
-Welcome to **Rust Journey Labs** — the ultimate, hands-on roadmap to mastering Rust from the ground up. This repository is structured as a series of practical, beginner-friendly Rust tutorials and labs, each with its own guide and code, to help you learn Rust step by step.
-
-Rust is a modern, systems-level programming language that emphasizes **performance**, **reliability**, and **memory safety**. It's trusted by tech giants like Microsoft, Dropbox, Cloudflare, and Amazon, and is used for everything from command-line tools to web services and embedded systems.
-
----
-
-## 📚 Table of Contents (Rust Tutorials)
-
-- [Introduction to Rust](01-introduction/README.md): What is Rust? Key features and why learn it.
-- [How to Install Rust (Beginner Guide)](02-installation/README.md): Step-by-step Rust installation for Windows, Mac, and Linux.
-- [Rust Hello World Tutorial](03-hello-world/README.md): Your first Rust program, explained for beginners.
-- [Rust Cargo Tutorial (Project Management)](04-cargo/README.md): Introduction to Rust’s package manager and build system.
-- [Rust Variables & Mutability Explained](05-variables-mutability/README.md): Understanding variables, immutability, and mutability in Rust.
-- [Rust Data Types Explained](06-data-types/README.md): Learn about numbers, booleans, characters, tuples, and arrays in Rust.
+<p align="center">
+  <a href="https://github.com/jasgigli/learn-rust/stargazers"><img src="https://img.shields.io/github/stars/jasgigli/learn-rust?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/jasgigli/learn-rust/network/members"><img src="https://img.shields.io/github/forks/jasgigli/learn-rust?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/jasgigli/learn-rust/blob/main/LICENSE"><img src="https://img.shields.io/github/license/jasgigli/learn-rust" alt="MIT License"></a>
+  <a href="https://jasgigli.github.io/learn-rust/"><img src="https://img.shields.io/badge/GitHub%20Pages-online-brightgreen" alt="GitHub Pages"></a>
+</p>
 
 ---
 
-## 🚀 Why Learn Rust? (For Beginners)
+> **Welcome to the ultimate, hands-on roadmap to mastering Rust from scratch!**
+>
+> This repository is a curated, beginner-to-advanced Rust course with practical labs, clear explanations, and real code. Each section is a self-contained lesson with its own guide and code samples.
 
-Rust is designed for developers who want to build high-performance, reliable, and safe software. Whether you're a systems programmer, web backend engineer, or just curious about modern languages, Rust has something to offer.
+---
+
+## 📚 Table of Contents
+
+| #  | Topic & Link                                                                 | Description                                      |
+|----|------------------------------------------------------------------------------|--------------------------------------------------|
+| 1  | [Introduction to Rust](01-introduction/README.md)                            | What is Rust? Key features and why learn it.      |
+| 2  | [How to Install Rust (Beginner Guide)](02-installation/README.md)            | Step-by-step Rust installation for all platforms. |
+| 3  | [Rust Hello World Tutorial](03-hello-world/README.md)                        | Your first Rust program, explained for beginners. |
+| 4  | [Rust Cargo Tutorial (Project Management)](04-cargo/README.md)               | Introduction to Rust’s package manager and build system. |
+| 5  | [Rust Variables & Mutability Explained](05-variables-mutability/README.md)    | Understanding variables, immutability, and mutability. |
+| 6  | [Rust Data Types Explained](06-data-types/README.md)                         | Learn about numbers, booleans, characters, tuples, and arrays. |
+| 7  | [Functions in Rust](07_functions/README.md)                                  | Defining and using functions in Rust.             |
+| 8  | [Comments in Rust](08_comments/README.md)                                    | How and why to comment your code.                 |
+| 9  | [Control Flow in Rust](09_control_flow/README.md)                            | If, else, and loops in Rust.                      |
+|    |                                                                              |                                                  |
+|    | [Advanced Topics](docs/advanced-topics.md)                                   | Lifetimes, traits, modules, error handling, etc.  |
+|    | [FAQ](docs/faq.md)                                                           | Frequently asked questions about Rust.            |
+|    | [Getting Started Guide](docs/getting-started.md)                             | Quickstart and tips for new learners.             |
+
+---
+
+## 🚀 Why Learn Rust?
 
 - **Performance:** Control over low-level details without sacrificing ergonomics.
 - **Reliability:** Prevents entire classes of bugs at compile time.
@@ -81,9 +94,9 @@ Help others discover these Rust tutorials! Share this project:
 
 - **Tweet:** [Share on Twitter](https://twitter.com/intent/tweet?text=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!%20Check%20out%20this%20open-source%20repo%3A%20https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust%20%23rustlang%20%23rust)
 - **LinkedIn:** [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust)
-- **Facebook:** [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust)
+- **Facebook:** [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
 - **Reddit:** [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
 
 ---
 
-*If you find this repository helpful, please star it and share with others learning Rust!*
+<p align="center"><b>If you find this repository helpful, please star it and share with others learning Rust!</b></p>

@@ -1,7 +1,9 @@
 <!--
 Meta Description: Beginner's guide to variables and mutability in Rust. Learn how to use variables, make them mutable, and understand constants and shadowing in Rust. Perfect for new Rustaceans.
 -->
-[⬅️ Back to Main Table of Contents](../README.md)
+[⬅️ Back to Main Page](../README.md)
+
+---
 
 # 📝 Rust Variables & Mutability Tutorial for Beginners
 

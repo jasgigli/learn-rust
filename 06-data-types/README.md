@@ -1,7 +1,9 @@
 <!--
 Meta Description: Beginner's guide to data types in Rust. Learn about numbers, booleans, characters, tuples, and arrays in Rust. Step-by-step Rust data types tutorial for new Rustaceans.
 -->
-[⬅️ Back to Main Table of Contents](../README.md)
+[⬅️ Back to Main Page](../README.md)
+
+---
 
 # 🔢 Rust Data Types Tutorial for Beginners
 

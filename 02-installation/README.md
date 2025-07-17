@@ -1,7 +1,9 @@
 <!--
 Meta Description: Beginner's guide to installing Rust. Step-by-step instructions for installing Rust on Windows, Mac, and Linux. Perfect for new Rustaceans and self-learners.
 -->
-[⬅️ Back to Main Table of Contents](../README.md)
+[⬅️ Back to Main Page](../README.md)
+
+---
 
 # 🚀 How to Install Rust: Beginner's Step-by-Step Guide
 

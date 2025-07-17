@@ -1,7 +1,9 @@
 <!--
 Meta Description: Beginner's guide to Cargo, Rust's project manager. Learn how to create, build, and run Rust projects with Cargo. Step-by-step Rust Cargo tutorial for new Rustaceans.
 -->
-[⬅️ Back to Main Table of Contents](../README.md)
+[⬅️ Back to Main Page](../README.md)
+
+---
 
 # 📦 Rust Cargo Tutorial: Project Management for Beginners
 

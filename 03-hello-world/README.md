@@ -1,7 +1,9 @@
 <!--
 Meta Description: Step-by-step Rust Hello World tutorial for beginners. Learn how to write and run your first Hello World program in Rust. Includes code, explanations, and tips for new Rustaceans.
 -->
-[⬅️ Back to Main Table of Contents](../README.md)
+[⬅️ Back to Main Page](../README.md)
+
+---
 
 # 👋 Rust Hello World Tutorial: Your First Program
 
