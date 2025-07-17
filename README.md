@@ -92,10 +92,10 @@ Meta Description: The ultimate beginner's guide to learning Rust programming. St
 
 Help others discover these Rust tutorials! Share this project:
 
-- **Tweet:** [Share on Twitter](https://twitter.com/intent/tweet?text=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!%20Check%20out%20this%20open-source%20repo%3A%20https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust%20%23rustlang%20%23rust)
-- **LinkedIn:** [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust)
-- **Facebook:** [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
-- **Reddit:** [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2FJunaidAliShahGigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
+- **Tweet:** [Share on Twitter](https://twitter.com/intent/tweet?text=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!%20Check%20out%20this%20open-source%20repo%3A%20https%3A%2F%2Fgithub.com%2Fjasgigli%2Flearn-rust%20%23rustlang%20%23rust)
+- **LinkedIn:** [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fjasgigli%2Flearn-rust)
+- **Facebook:** [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fjasgigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
+- **Reddit:** [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fjasgigli%2Flearn-rust&title=Learn%20Rust%20step-by-step%20with%20hands-on%20tutorials%20and%20labs!)
 
 ---
 

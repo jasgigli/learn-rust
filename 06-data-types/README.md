@@ -5,84 +5,73 @@ Meta Description: Beginner's guide to data types in Rust. Learn about numbers, b
 
 ---
 
-# 🔢 Rust Data Types Tutorial for Beginners
+# Rust Data Types
 
-## What are Data Types in Rust?
-
-Every value in Rust has a type—like how every item in your kitchen has a purpose (spoon, bowl, pan). Types help Rust keep your code safe and fast. This beginner tutorial covers the most common data types in Rust: numbers, booleans, characters, tuples, and arrays.
+This section covers Rust's data types, including scalar and compound types, with code examples and instructions for running them using Cargo.
 
 ---
 
-## Step 1: Numbers in Rust
+## Scalar Types
 
-Rust has two main kinds of numbers:
-- **Integers:** Whole numbers (like 1, -42, 100)
-- **Floats:** Numbers with decimals (like 3.14, -0.5)
+Scalar types represent a single value. Rust has four primary scalar types:
 
-Example:
-```rust
-fn main() {
-    let apples: i32 = 5;      // integer
-    let price: f64 = 2.99;    // floating-point
-    println!("I have {apples} apples, each costs ${price}");
-}
+### 1. Integer
+- Example: [`01_scalar_type/integer.rs`](01_scalar_type/integer.rs)
+- **Description:** Whole numbers, both signed and unsigned, e.g., `i32`, `u8`.
+- **Run with Cargo:**
+  ```sh
+  cargo run --bin integer
+  ```
+
+### 2. Floating Point
+- Example: [`01_scalar_type/floating_point.rs`](01_scalar_type/floating_point.rs)
+- **Description:** Numbers with decimal points, e.g., `f32`, `f64`.
+- **Run with Cargo:**
+  ```sh
+  cargo run --bin floating_point
+  ```
+
+### 3. Boolean
+- Example: [`01_scalar_type/boolean.rs`](01_scalar_type/boolean.rs)
+- **Description:** `true` or `false` values.
+- **Run with Cargo:**
+  ```sh
+  cargo run --bin boolean
+  ```
+
+### 4. Character
+- Example: [`01_scalar_type/character.rs`](01_scalar_type/character.rs)
+- **Description:** Single Unicode scalar values, e.g., `'a'`, `'∞'`.
+- **Run with Cargo:**
+  ```sh
+  cargo run --bin character
+  ```
+
+---
+
+## Compound Types
+
+Compound types can group multiple values into one type.
+
+### 1. Tuple
+- Example: [`02_compound_types/main.rs`](02_compound_types/main.rs)
+- **Description:** Group values of different types together.
+- **Run with Cargo:**
+  ```sh
+  cargo run --bin main
+  ```
+
+---
+
+## How to Build All Examples
+
+From this directory, you can build all examples with:
+```sh
+cargo build
 ```
-- `i32` means a 32-bit integer (most common)
-- `f64` means a 64-bit floating-point number (most common for decimals)
 
-*Tip:* Integers are like whole apples, floats are like slices!
+To run a specific example, use the `--bin` flag as shown above.
 
 ---
 
-## Step 2: Booleans & Characters in Rust
-
-- **Booleans:** true or false
-- **Characters:** Single letters, numbers, or symbols (in single quotes)
-
-Example:
-```rust
-fn main() {
-    let is_rust_fun: bool = true;
-    let letter: char = 'R';
-    println!("Is Rust fun? {is_rust_fun} — My favorite letter: {letter}");
-}
-```
-
----
-
-## Step 3: Tuples & Arrays in Rust
-
-- **Tuples:** Group different types together
-- **Arrays:** List of values, all the same type, fixed size
-
-Example:
-```rust
-fn main() {
-    let person: (i32, f64, char) = (25, 72.5, 'A');
-    let scores: [i32; 3] = [90, 85, 88];
-    println!("Person: age {}, weight {}, grade {}", person.0, person.1, person.2);
-    println!("Scores: {} {} {}", scores[0], scores[1], scores[2]);
-}
-```
-- Access tuple items with `.0`, `.1`, etc.
-- Access array items with `[index]`
-
-*Tip:* A tuple is like a lunchbox with a sandwich, apple, and juice. An array is like a carton of six eggs—all the same!
-
----
-
-## Try It Yourself!
-- Make a variable for your age (integer), your height (float), and your first initial (char).
-- Create an array of your three favorite numbers.
-- Make a tuple with your name (as a char), age, and a boolean for “likes Rust.”
-
----
-
-## Next Steps for Rust Beginners
-- You’ve learned the building blocks of Rust data!
-- Try changing types and see what errors you get.
-- Move on to the next topic, or read the [Official Rust Book: Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
-
----
-
-**Types help Rust help you. Keep experimenting! 🦀**
+For more details, see the [Rust Book: Data Types](https://doc.rust-lang.org/book/ch03-02-data-types.html)
